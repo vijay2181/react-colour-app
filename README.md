@@ -18,7 +18,8 @@ For using this app,  clone this repo
 
 `yarn start`
 
-![](screenshot.png)
+![image](https://user-images.githubusercontent.com/66196388/182698138-ca6d6ea5-ffa6-471a-b0d0-d5bdf3814027.png)
+
 
 ##### Build the image
 
