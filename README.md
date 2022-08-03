@@ -1,7 +1,7 @@
 ## React Web Application
 
 ### Summary
-This is a basic digital coloring App! It's awesome!!! 😍
+This is a basic digital coloring App! 
 
 ##### Getting Started
 For using this app,  clone this repo
@@ -14,9 +14,9 @@ For using this app,  clone this repo
 
 ##### Run Snap Shot from the root directory
 
-`yarn start`
-
 `yarn upgrade`
+
+`yarn start`
 
 ![](screenshot.png)
 
