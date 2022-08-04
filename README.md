@@ -4,7 +4,7 @@
 This is a basic digital coloring App! 
 
 ##### Getting Started
-For using this app,  clone this repo
+For using this app,  we need to setup infrastructure, use this repo to setup infrastucture using TERRAFORM(for this step go to this [repo](https://github.com/vijay2181/terraform-sample-ec2-machine)).
 
 ##### Install dependencies
 
