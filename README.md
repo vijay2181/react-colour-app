@@ -8,9 +8,13 @@ For using this app,  clone this repo
 
 ##### Install dependencies
 
+`curl --silent --location https://rpm.nodesource.com/setup_16.x | bash -`
+
+`yum -y install nodejs`
+
 `curl -sL https://dl.yarnpkg.com/rpm/yarn.repo -o /etc/yum.repos.d/yarn.repo`
 
-`sudo yum install yarn`
+`sudo yum install yarn -y`
 
 ##### Run Snap Shot from the root directory
 
